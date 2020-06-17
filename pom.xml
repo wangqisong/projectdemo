@@ -11,6 +11,7 @@
     <modules>
         <module>quartz</module>
         <module>shiro</module>
+        <module>redisson</module>
     </modules>
 
     <dependencies>
