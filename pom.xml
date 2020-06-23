@@ -21,6 +21,7 @@
         <module>quartz</module>
         <module>shiro</module>
         <module>redisson</module>
+        <module>wecahtapi</module>
     </modules>
 
 
