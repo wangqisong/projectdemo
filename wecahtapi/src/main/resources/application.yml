@@ -1,2 +1,7 @@
 server:
   port: 8111
+
+spring:
+  redis:
+    host: 172.18.18.160
+    password: 123456
