@@ -22,6 +22,7 @@
         <module>shiro</module>
         <module>redisson</module>
         <module>wecahtapi</module>
+        <module>function</module>
     </modules>
 
 
